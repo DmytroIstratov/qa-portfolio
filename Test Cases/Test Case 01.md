@@ -4,7 +4,7 @@
 This test verifies that a guest (unauthenticated) user is able to add a product to the shopping cart.
 
 ## Preconditions
-- User is not logged in
+- User is not logged in ROZETKA
 - Product is available and visible in catalog
 
 ## Steps to Reproduce
